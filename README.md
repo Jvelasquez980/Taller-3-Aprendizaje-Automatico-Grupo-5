@@ -2,7 +2,10 @@
 ## Predicción de Accidentalidad Vial en Medellín 🚦
 
 > **Asignatura:** Aprendizaje Automático  
-> **Grupo:** 5  
+> **Grupo:** 5
+
+> **Integrantes:** Sara Dominguez, Simon Gaviria, Manuela Caro, Jeronimo Velasquez, Samuel Acosta, Santiago Molano
+> 
 > **Dataset:** Accidentes de tránsito + variables climáticas — Medellín
 
 ---
